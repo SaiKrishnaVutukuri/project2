@@ -8,6 +8,8 @@ public class Test
 		String a="Sai";
 		String b="Krishna";
 		System.out.println(a+b);
+		System.out.println("==========");
+		System.out.println();
 		
 	}
 
